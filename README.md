@@ -10,3 +10,10 @@ From scratch implementations of 8 machine learning models
 - Random Forest
 - Naive Bayes
 - Support Vector Machine
+
+From scratch implementation of advanced regularizatin and optimization
+
+- DropOut
+- DropConnect
+- Mixup
+- Cutmix
